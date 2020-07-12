@@ -3,10 +3,10 @@
 
 :clipboard: [website](https://dancwpark.github.io)
 
-PhD Candidate @ Rensselaer Polytechnic Institute
+## PhD Candidate @ Rensselaer Polytechnic Institute
 :computer: Working on security of ML models
 
-Interested in:
+### Interested in:
 
 :mag: Program analysis
 
