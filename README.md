@@ -1,3 +1,3 @@
-# About
+# Daniel Park
 
-Hi!
+PhD Candidate @ Rensselaer Polytechnic Institute
