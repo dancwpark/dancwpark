@@ -1,5 +1,4 @@
 # Daniel Park :coffee:
-:email: dancwpark@gmail.com
 
 :clipboard: [website](https://dancwpark.github.io)
 
