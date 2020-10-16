@@ -12,3 +12,5 @@
 :mag: Fuzzing
 
 :mag: Formal verification
+
+:mag: Machine Learning / Artificial Intelligence
