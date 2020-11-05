@@ -1,6 +1,6 @@
 # Daniel Park :coffee:
 
-:clipboard: [website](https://dancwpark.github.io)
+:clipboard: [website](https://dancwpark.com)
 
 ## PhD Candidate @ Rensselaer Polytechnic Institute
 :computer: Working on security of ML models
