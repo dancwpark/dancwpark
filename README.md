@@ -1,9 +1,7 @@
-# Daniel Park :coffee:
+# dancwpark :coffee:
 
 :clipboard: [website](https://dancwpark.com)
 
-## PhD Candidate @ Rensselaer Polytechnic Institute
-:computer: Working on security of ML models
 
 ### Interested in:
 
@@ -12,5 +10,3 @@
 :mag: Fuzzing
 
 :mag: Formal verification
-
-:mag: Machine Learning / Artificial Intelligence
