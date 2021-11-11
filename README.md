@@ -5,8 +5,8 @@
 
 ### Interested in:
 
-:mag: Program analysis
+:mag: Program Analysis
 
 :mag: Fuzzing
 
-:mag: Formal verification
+:mag: Machine Learning
